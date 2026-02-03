@@ -26,9 +26,7 @@ where \(e = 2.718\) is the base of the natural logarithm.
 - This radius is called **spot size**. The spot diameter is \(w\).  
 
 **Spot Diameter (d) micron** = Focal length of the Lens (f) mm × Laser beam full divergence angle (DA) mrad.  
-
 To achieve maximum coupling efficiency, the fiber core diameter must be larger than the spot diameter.  
-
 \[
 NA = \frac{\text{Laser Beam Diameter (B.D.)}}{2 \times \text{Lens Focal Length (f)}}
 \]
@@ -63,23 +61,7 @@ The source coupler consists of two base plates:
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
 
 # Observation and Calculation
-Parameters of given fiber:  
-- Core radius \(A = 4.5 \, \mu m\)  
-- Numerical Aperture \(NA = 0.11\)  
-- Wavelength \(\lambda = 633 \, nm\)  
-
-\[
-V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
-\]
-
-- From the figure, only **4 LP modes** propagate.  
-- Total number of modes:  
-
-\[
-\frac{V^2}{2} = \frac{(4.91)^2}{2} \approx 12.05
-\]
-
----
+![WhatsApp Image 2026-02-03 at 7 32 09 PM](https://github.com/user-attachments/assets/50a6780a-2a3c-4a91-b9e2-dca8f0425086)
 
 # Result
-The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
+The fiber supports **6 Linearly Polarized (LP) modes** at the given parameters.
